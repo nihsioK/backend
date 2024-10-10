@@ -1,0 +1,6 @@
+venv/
+no_waving_videos/
+waving_videos/
+skeleton_no_waving_videos/
+skeleton_waving_videos/
+__pycache__/
